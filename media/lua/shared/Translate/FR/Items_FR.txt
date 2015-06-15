@@ -1,0 +1,9 @@
+Items_FR = {
+	DisplayName_Axe_Handle    = "Manche de hache",
+	DisplayName_Axe_Head    = "Lame de hache",
+	DisplayName_Makeshift_Axe    = "Hache improvisee",
+	DisplayName_Worn_Makeshift_Axe    = "Hache improvisee usee",
+	DisplayName_Worn_Axe_Head    = "Lame de hache improvisee usee",  
+	DisplayName_Blunt_Makeshift_Axe    = "Hache emoussee", 
+	DisplayName_Blunt_Axe_Head    = "Lame de Hache emousse",
+}

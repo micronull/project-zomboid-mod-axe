@@ -1,0 +1,8 @@
+Recipes_FR = {
+	Recipe_Craft_Axe_Handle    =        "Tailler un manche de hache",
+	Recipe_Remove_Axe_Head    =        "Retirer la lame",
+	Recipe_Sharpen_Axe_Head    =        "Aiguiser la lame",
+	Recipe_Craft_Makeshift_Axe =        "Assembler une hache improvisee",
+	Recipe_Craft_Worn_Makeshift_Axe    =    "Assembler une hache usee",
+	Recipe_Craft_Blunt_Makeshift_Axe =    "Assembler une hache emoussee",
+}
