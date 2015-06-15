@@ -1,0 +1,8 @@
+Recipes_RU = {
+	Recipe_Craft_Axe_Handle	=	"Создать ручку топора",
+	Recipe_Remove_Axe_Head	=	"Отпилить лезвие топора",
+	Recipe_Sharpen_Axe_Head	=	"Подточить лезвие топора",
+	Recipe_Craft_Makeshift_Axe	=	"Создать топор",
+	Recipe_Craft_Worn_Makeshift_Axe	=	"Создать старый топор",
+	Recipe_Craft_Blunt_Makeshift_Axe	=	"Создать тупой топор",
+}

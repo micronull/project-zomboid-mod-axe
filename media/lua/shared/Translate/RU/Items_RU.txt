@@ -1,0 +1,9 @@
+Items_RU = {
+	DisplayName_Axe_Handle	= "Ручка топора",
+	DisplayName_Axe_Head	= "Лезвие топора",
+	DisplayName_Makeshift_Axe	= "Самодельный топор",
+	DisplayName_Worn_Makeshift_Axe	= "Старый топор",
+	DisplayName_Worn_Axe_Head	= "Лезвие старого топора",
+	DisplayName_Blunt_Makeshift_Axe	= "Тупой топор",
+	DisplayName_Blunt_Axe_Head	= "Лезвие тупого топора",
+}
