@@ -1,0 +1,9 @@
+Items_PL = {
+	DisplayName_Axe_Handle	= "Trzonek siekiery",
+	DisplayName_Axe_Head	= "Głowica siekiery",
+	DisplayName_Makeshift_Axe	= "Siekiera - samoróbka",
+	DisplayName_Worn_Makeshift_Axe	= "Siekiera - stępiona",
+	DisplayName_Worn_Axe_Head	= "Głowica siekiery - stępiona",
+	DisplayName_Blunt_Makeshift_Axe	= "Siekiera - zupełnie tępa",
+	DisplayName_Blunt_Axe_Head	= "Głowica siekiery - zupełnie tępa",
+}
