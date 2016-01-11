@@ -1,9 +1,9 @@
 Items_PL = {
 	DisplayName_Axe_Handle	= "Trzonek siekiery",
-	DisplayName_Axe_Head	= "GÅ‚owica siekiery",
-	DisplayName_Makeshift_Axe	= "Siekiera - samorÃ³bka",
-	DisplayName_Worn_Makeshift_Axe	= "Siekiera - stÄ™piona",
-	DisplayName_Worn_Axe_Head	= "GÅ‚owica siekiery - stÄ™piona",
-	DisplayName_Blunt_Makeshift_Axe	= "Siekiera - zupeÅ‚nie tÄ™pa",
-	DisplayName_Blunt_Axe_Head	= "GÅ‚owica siekiery - zupeÅ‚nie tÄ™pa",
+	DisplayName_Axe_Head	= "G³owica siekiery",
+	DisplayName_Makeshift_Axe	= "Siekiera - samoróbka",
+	DisplayName_Worn_Makeshift_Axe	= "Siekiera - stêpiona",
+	DisplayName_Worn_Axe_Head	= "G³owica siekiery - stêpiona",
+	DisplayName_Blunt_Makeshift_Axe	= "Siekiera - zupe³nie têpa",
+	DisplayName_Blunt_Axe_Head	= "G³owica siekiery - zupe³nie têpa",
 }

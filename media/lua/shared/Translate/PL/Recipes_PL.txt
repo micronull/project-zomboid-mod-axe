@@ -1,8 +1,8 @@
 Recipes_PL = {
-	Recipe_Craft_Axe_Handle	=	"ZrÃ³b trzonek siekiery",
-	Recipe_Remove_Axe_Head	=	"Zdejmij gÅ‚owicÄ™ siekiery",
-	Recipe_Sharpen_Axe_Head	=	"Naostrz gÅ‚owicÄ™ siekiery",
-	Recipe_Craft_Makeshift_Axe	=	"ZrÃ³b siekierÄ™ - samorÃ³bkÄ™",
-	Recipe_Craft_Worn_Makeshift_Axe	=	"ZrÃ³b stÄ™pionÄ… siekierÄ™",
-	Recipe_Craft_Blunt_Makeshift_Axe	=	"ZrÃ³b zupeÅ‚nie tÄ™pÄ… siekierÄ™",
+	Recipe_Craft_Axe_Handle	=	"Zrób trzonek siekiery",
+	Recipe_Remove_Axe_Head	=	"Zdejmij g³owicê siekiery",
+	Recipe_Sharpen_Axe_Head	=	"Naostrz g³owicê siekiery",
+	Recipe_Craft_Makeshift_Axe	=	"Zrób siekierê - samoróbkê",
+	Recipe_Craft_Worn_Makeshift_Axe	=	"Zrób stêpion¹ siekierê",
+	Recipe_Craft_Blunt_Makeshift_Axe	=	"Zrób zupe³nie têp¹ siekierê",
 }
